@@ -9,4 +9,4 @@
 
 
 <p><a href="https://platform.openai.com/docs/quickstart?context=node">Get up and running with the OpenAI API</a></p>
-[Build with Claude](https://docs.anthropic.com/en/home)
+- [Build with Claude](https://docs.anthropic.com/en/home)
