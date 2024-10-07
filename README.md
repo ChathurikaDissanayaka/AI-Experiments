@@ -5,5 +5,5 @@
 
 ## Projects
 - [PolyGlot](https://polly-glot.pages.dev/)
-- [Text Summarizer]()
+- [Text Summarizer](https://the-summarizer-app.pages.dev/)
 - [Image Describer]()
