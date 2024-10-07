@@ -8,5 +8,5 @@
 - [Image Describer](https://image-describer-app.pages.dev/)
 
 ## Official Documentation
-<p><a href="https://platform.openai.com/docs/quickstart?context=node">Get up and running with the OpenAI API</a></p>
+<p><a href="https://platform.openai.com/docs/concepts">Get up and running with the OpenAI API</a></p>
 <p><a href="https://docs.anthropic.com/en/home">Build with Claude</a></p>
