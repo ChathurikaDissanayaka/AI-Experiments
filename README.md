@@ -4,6 +4,6 @@
 </ul>
 
 ## Projects
-- [PolyGlot]()
+- [PolyGlot](https://polly-glot.pages.dev/)
 - [Text Summarizer]()
 - [Image Describer]()
