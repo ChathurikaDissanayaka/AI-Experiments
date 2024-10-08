@@ -8,7 +8,7 @@
 - [Image Describer](https://image-describer-app.pages.dev/)
 
 ## AI Image Generation
--[AI Photo Gallery](https://ai-photo-gallery-by-s4ch1.netlify.app/)
+- [AI Photo Gallery](https://ai-photo-gallery-by-s4ch1.netlify.app/)
 
 ## Official Documentation
 <p><a href="https://platform.openai.com/docs/concepts">OpenAI API</a></p>
